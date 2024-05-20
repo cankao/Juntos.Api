@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/IjKN0FlGu/eMesL8Gg2jQZgfT/ja9xQYYQTKjVfxHCiPRtOxqEIz3mzMsTwGh/FYkC23NBA9WVANpg/8O0tQ==",
+  "success": true,
+  "projectFilePath": "C:\\github\\Juntos.Api.Users.Domain\\Juntos.Api.Users.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

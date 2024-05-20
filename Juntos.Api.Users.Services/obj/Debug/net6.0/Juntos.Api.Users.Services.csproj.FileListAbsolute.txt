@@ -1,0 +1,17 @@
+C:\github\Juntos.Api.Users.Services\bin\Debug\net6.0\Juntos.Api.Users.Services.deps.json
+C:\github\Juntos.Api.Users.Services\bin\Debug\net6.0\Juntos.Api.Users.Services.dll
+C:\github\Juntos.Api.Users.Services\bin\Debug\net6.0\Juntos.Api.Users.Services.pdb
+C:\github\Juntos.Api.Users.Services\bin\Debug\net6.0\Juntos.Api.Users.Domain.dll
+C:\github\Juntos.Api.Users.Services\bin\Debug\net6.0\Juntos.Api.Users.Domain.pdb
+C:\github\Juntos.Api.Users.Services\obj\Debug\net6.0\Juntos.Api.Users.Services.csproj.AssemblyReference.cache
+C:\github\Juntos.Api.Users.Services\obj\Debug\net6.0\Juntos.Api.Users.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Juntos.Api.Users.Services\obj\Debug\net6.0\Juntos.Api.Users.Services.AssemblyInfoInputs.cache
+C:\github\Juntos.Api.Users.Services\obj\Debug\net6.0\Juntos.Api.Users.Services.AssemblyInfo.cs
+C:\github\Juntos.Api.Users.Services\obj\Debug\net6.0\Juntos.Api.Users.Services.csproj.CoreCompileInputs.cache
+C:\github\Juntos.Api.Users.Services\obj\Debug\net6.0\Juntos.Api.Users.Services.csproj.CopyComplete
+C:\github\Juntos.Api.Users.Services\obj\Debug\net6.0\Juntos.Api.Users.Services.dll
+C:\github\Juntos.Api.Users.Services\obj\Debug\net6.0\refint\Juntos.Api.Users.Services.dll
+C:\github\Juntos.Api.Users.Services\obj\Debug\net6.0\Juntos.Api.Users.Services.pdb
+C:\github\Juntos.Api.Users.Services\obj\Debug\net6.0\ref\Juntos.Api.Users.Services.dll
+C:\github\Juntos.Api.Users.Services\bin\Debug\net6.0\Juntos.Api.Users.Infrastructure.dll
+C:\github\Juntos.Api.Users.Services\bin\Debug\net6.0\Juntos.Api.Users.Infrastructure.pdb
